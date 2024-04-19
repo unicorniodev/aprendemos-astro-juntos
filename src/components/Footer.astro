@@ -1,0 +1,26 @@
+---
+import Social from "../components/Social.astro";
+
+const platform = "github";
+const username = "florluzduarte";
+const usernameUnicornio = "unicorniodev";
+---
+
+<footer>
+  <p>
+    ¡Más información sobre mis proyectos en <a
+      href={`https://www.${platform}.com/${username}`}>{platform}</a
+    >!
+  </p>
+  <Social platform="LinkedIn" username={username} />
+  <Social platform="YouTube" username={`@${usernameUnicornio}`} />
+  <Social platform="Instagram" username="@unicornio.dev" />
+</footer>
+
+<style>
+  footer {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+</style>
