@@ -1,35 +1,39 @@
-# Astro Starter Kit: Minimal
+# 👩‍🚀 Aprendemos Astro Juntos
 
-```sh
-npm create astro@latest -- --template minimal
-```
+## ✨ Introducción 
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+En esta serie de vivos aprendimos los fundamentos de Astro siguiendo la documentación oficial de este framework. La idea de esta serie es que puedas familiarizarte con:  
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+1. El entorno de trabajo de Astro
+2. Su sintaxis para la creación de componentes 
+3. Sus principales usos y aplicaciones 
+4. Todo lo necesario para que puedas armar un blog mínimo pero con toda su funcionalidad explicada desde cero 
 
-## 🚀 Project Structure
+🚀 Si estos videos te sirvieron para aprender algo nuevo, no dudes en compartirlos con otras personas y dejarme una estrellita en este repo  
 
-Inside of your Astro project, you'll see the following folders and files:
+👀 Ante cualquier duda sobre el código, te esperamos en el server de Discord de la comunidad: [Quiero unirme al Discord de unicornio dev](https://discord.gg/92pFJKeu5d)  
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## 📹 Videos de esta serie
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+💜 Primer video 💜  
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+[![Primer video de la serie aprendemos astro juntos](/public/youtube-covers/aprendemos-astro-juntos-p-1.png)](https://youtu.be/MPczB3KjesY)
 
-Any static assets, like images, can be placed in the `public/` directory.
+💛 Segundo video 💛  
 
-## 🧞 Commands
+[![Segundo video de la serie aprendemos astro juntos](/public/youtube-covers/aprendemos-astro-juntos-p-2.png)](https://youtu.be/Hb08sAvGESg)
+
+💚 Tercer video 💚  
+
+[![Tercer video de la serie aprendemos astro juntos](/public/youtube-covers/aprendemos-astro-juntos-p-3.png)](https://youtu.be/pwl2mrfCqU0)
+
+💙 Cuarto y último video de esta serie 💙  
+
+[![Cuarto video de la serie aprendemos astro juntos](/public/youtube-covers/aprendemos-astro-juntos-p-4.png)](https://youtu.be/graOzZBqHc0)
+
+Para más contenido sobre programación no olvides suscribirte a mi canal: [Quiero ver todos los videos!](https://youtube.com/@unicorniodev)
+
+## 🧞 Comandos
 
 All commands are run from the root of the project, from a terminal:
 
@@ -42,6 +46,6 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## 👀 Documentación de Astro y su server de discord
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
